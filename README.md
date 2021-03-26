@@ -1,1 +1,2 @@
 # EventAssist
+Kisameさん作のSkriptファイルをプラグインに変換したものです。
